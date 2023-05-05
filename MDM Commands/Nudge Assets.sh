@@ -14,6 +14,6 @@ fi
 
 #Grab latest asset images
 echo "Downloading latest asset images"
-/usr/bin/curl "https://raw.githubusercontent.com/MichaelJon12/Pub-Files/main/Assets/appleRainbow.png" -o "/tmp/nudge/appleRainbow.png"
-/usr/bin/curl "https://raw.githubusercontent.com/MichaelJon12/Pub-Files/main/Assets/updateDark.png" -o "/tmp/nudge/updateDark.png"
-/usr/bin/curl "https://raw.githubusercontent.com/MichaelJon12/Pub-Files/main/Assets/updateLight.png" -o "/tmp/nudge/updateLight.png"
+/usr/bin/curl "https://raw.githubusercontent.com/BiosPlus/Pub-Files/main/Assets/appleRainbow.png" -o "/tmp/nudge/appleRainbow.png"
+/usr/bin/curl "https://raw.githubusercontent.com/BiosPlus/Pub-Files/main/Assets/updateDark.png" -o "/tmp/nudge/updateDark.png"
+/usr/bin/curl "https://raw.githubusercontent.com/BiosPlus/Pub-Files/main/Assets/updateLight.png" -o "/tmp/nudge/updateLight.png"
