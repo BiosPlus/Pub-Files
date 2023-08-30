@@ -16,8 +16,8 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
         }
       ],
-      "requiredInstallationDate": "2023-07-28T00:00:01Z",
-      "requiredMinimumOSVersion": "13.5",
+      "requiredInstallationDate": "2023-09-01T00:00:01Z",
+      "requiredMinimumOSVersion": "13.5.1",
       "targetedOSVersionsRule": "default"
     }
   ],
@@ -56,7 +56,7 @@
         "mainHeader": "Your device requires a macOS Security Update",
         "primaryQuitButtonText": "Later",
         "secondaryQuitButtonText": "I understand",
-        "subHeader": "A friendly reminder from your local IT team"
+        "subHeader": "A friendly reminder from your tech team"
       }
     ]
   }
