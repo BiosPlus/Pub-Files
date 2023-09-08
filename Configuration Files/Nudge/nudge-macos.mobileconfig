@@ -47,9 +47,9 @@
 						</dict>
 					</array>
 					<key>requiredInstallationDate</key>
-					<date>2023-09-01T00:00:01Z</date>
+					<date>2023-09-15T00:00:01Z</date>
 					<key>requiredMinimumOSVersion</key>
-					<string>13.5.1</string>
+					<string>13.5.2</string>
 				</dict>
 			</array>
 			<key>userExperience</key>
