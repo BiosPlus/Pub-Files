@@ -16,8 +16,8 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
         }
       ],
-      "requiredInstallationDate": "2023-10-31T00:00:01Z",
-      "requiredMinimumOSVersion": "13.6"
+      "requiredInstallationDate": "2023-11-30T00:00:01Z",
+      "requiredMinimumOSVersion": "14.1"
     }
   ],
   "userExperience": {
