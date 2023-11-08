@@ -49,7 +49,7 @@
 					<key>requiredInstallationDate</key>
 					<date>2023-11-30T00:00:01Z</date>
 					<key>requiredMinimumOSVersion</key>
-					<string>14.1</string>
+					<string>14.1.1</string>
 				</dict>
 			</array>
 			<key>userExperience</key>
